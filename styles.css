@@ -1,0 +1,43 @@
+.container {
+    background-image: url("./images/image1.jpg");
+    position: relative;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: khaki;
+    width: 100%;
+}
+.brush-title {
+    background-color: mediumspringgreen;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+.brush-price {
+    font-family: Helvetica;
+    color: blue;
+
+}.frames {
+    background-color: lightcoral;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+}
+.frame-price {
+    font-family: Helvetica;
+    color: blue;
+}
+.paint {
+    background-color: skyblue;
+    color: white;
+    font-family: Helvetica;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.paint-price {
+    font-family: Helvetica;
+    color: blue;
+}
